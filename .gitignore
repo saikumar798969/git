@@ -1,4 +1,6 @@
 *.net
-*.py
 *.cpp
+
+!java.py
+
 
